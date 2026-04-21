@@ -31,7 +31,7 @@ TEM-QC v4 fuses your **Quantum Observer Nexus** HTML simulator with a sophistica
 
 ```bash
 # Clone and install
-git clone https://github.com/nix3n/tem-qc-v4.git
+git clone https://github.com/CodeToEscape/tem-qc-v4.git
 cd tem-qc-v4
 pip install -r requirements.txt
 
